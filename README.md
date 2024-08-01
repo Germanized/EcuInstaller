@@ -47,12 +47,13 @@ If the `ecu-1.4.0.jar` file is not provided, it will be downloaded from [this UR
 5. **Completion**:
 A success message will appear once the mods are installed.
 
-**FAQ**
-YO WHY IS THE EXE SO BIG U TRYNA RAT US 
-short answer: no i just built it and obfuscated it with pyarmor so someone can just take the exe rat it and distro
+## Installation
 
-AM I STUPID TO THINK YOUR GONNA RAT ME AND IM BLIND
-answer: yes cuz its open src in the main.py dum dum
+**YO WHY IS THE EXE SO BIG U TRYNA RAT US**
+**short answer: no i just built it and obfuscated it with pyarmor so someone can just take the exe rat it and distro it**
+
+**AM I STUPID TO THINK YOUR GONNA RAT ME AND IM BLIND**
+**answer: yes cuz its open src in the main.py dum dum**
 
 ## Credits
 
