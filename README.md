@@ -1,6 +1,6 @@
 # Minecraft Essential Unlocker Mod Installer
 original github where mod is located https://github.com/dxxxxy/EssentialCosmeticsUnlocker
-
+# V2 is a one click install
 This is a Python-based GUI application using PyQt5 designed to help users install Minecraft mods easily. Specifically, it handles the installation of the Essential Mod and ECU-1.4.0.jar file into the Minecraft directory.
 
 ## Features
